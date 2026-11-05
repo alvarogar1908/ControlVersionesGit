@@ -33,25 +33,6 @@ Su finalidad es permitir crear contenido de forma sencilla y mantener un texto l
 2. Segundo paso
 ```
 
-### Enlaces
-
-```markdown
-[Documentación de GitHub](https://docs.github.com/es)
-```
-
-### Imágenes
-
-```markdown
-![Descripción de la imagen](img/ejemplo.png)
-```
-
-En GitHub también puede utilizarse HTML básico dentro de Markdown para ajustar el tamaño de una imagen:
-
-```html
-<img src="img/ejemplo.png" alt="Descripción de la imagen" width="400" height="250" />
-```
-
-La imagen debe guardarse en la carpeta `img` y la ruta debe coincidir con su nombre real.
 
 ### Bloques de código
 
